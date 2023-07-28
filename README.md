@@ -1,46 +1,51 @@
-***
+# 　　　　　　　　　　　LINE Plus clone<br>
+<br>
 
-# LINE plus+ 클론 코딩 (FE 박성후)
-### 안녕하세요!
-클론코딩한 사이트는 라인플러스(주)입니다.</br>
-원본 사이트 : https://linepluscorp.com/ 입니다.</br>
-배포 사이트 : https://silver-parfait-b1a37d.netlify.app/index.html 입니다.
-</br>
-</br>
+　　　　　　　　　　　　　　　　　　　　　[![Static Badge](https://img.shields.io/badge/Official%20link-LINE%20Plus?style=for-the-badge&logo=LINE&logoColor=white&label=LINE%20Plus&labelColor=%2306c755&color=black)](https://linepluscorp.com/)
+　　　　　　　　　　　　　　　　　　　　　[![clone](https://img.shields.io/badge/Clone-LINE%20Plus?style=for-the-badge&logo=LINE&logoColor=white&label=LINE%20Plus&labelColor=%2306c755&color=black)](https://lineplus-clone.netlify.app/)
+<br>
+## 구현 기능
+<details>
+ <summary>시멘틱 태그 </summary>
 
-# 구현해본 기능
-## 1. 시멘틱 태그 </br>
-![sementic](./images/SementicTag.png)
-</br>
+![시멘틱태그](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/SementicTag.png?raw=true)
+</details>
 
-## 2. Flex, Grid 사용<br>
-![Flex](./images/FLEX.png)
-![Grid](./images/Grid.png)
-</br>
+<details>
+<summary>Flex, Grid</summary>
 
-## 3. 드롭박스<br>
-![Dropbox1](/images/Dropbox1.gif)
-![Dropbox2](./images/Dropbox2.gif)
-![Dropbox3](./images/Dropbox3.gif)
-</br>
+- Flex
+![플렉스](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/FLEX.png?raw=true)
+<br>
 
-## 4. 반응형<br>
-![Reactive](./images/Reactive.gif)
-</br>
+- Grid
+![그리드](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/Grid.png?raw=true)
+</details>
 
-## 4. 태국어 사이트 이동<br>
-![Th](./images/Th.gif)
-</br>
-</br>
+<details>
+<summary>드롭박스</summary>
 
-# 실습 후 느낀 점
-> ### 학습내용
->> 구조를 해부하는데 시간이 오래 걸렸지만, 더 깊이 이해할 수 있었습니다.<br>
->> 앞으로 배울 자바스크립트를 조금씩 구현해보면서 감을 익혔습니다.
-</br>
+![드롭박스1](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/Dropbox1.gif?raw=true)
+![드롭박스2](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/Dropbox2.gif?raw=true)
+![드롭박스3](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/Dropbox3.gif?raw=true)
 
-> ### 개선점
->> 구조 분석과 CSS에 대한 이해가 부족해서 반응형 웹을 제대로 완성하지 못했습니다.<br>
->> 재사용하지 못하고 계속 반복되는 코드를 개선하지 못했습니다.
+</details>
 
-***
+<details>
+
+<summary>반응형</summary>
+
+![반응형](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/Reactive.gif?raw=true)
+</details>
+
+<details>
+<summary>페이지 전환</summary>
+
+![태국페이지](https://github.com/KDT1-FE/Y_FE_HTML_CSS/blob/KDT0_ParkSungHoo/images/Th.gif?raw=true)
+</details>
+<br>
+<br>
+
+## 추후 계획
+- 코드 재사용성을 높이기 위해 SCSS 학습
+- 반응형 추가학습
