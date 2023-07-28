@@ -1,7 +1,7 @@
 # 　　　　　　　　　　　LINE Plus clone<br>
 <br>
 
-　　　　　　　　　　　　　　　　　　　　　[![Static Badge](https://img.shields.io/badge/Official%20link-LINE%20Plus?style=for-the-badge&logo=LINE&logoColor=white&label=LINE%20Plus&labelColor=%2306c755&color=black)](https://linepluscorp.com/)
+　　　　　　　　　　　　　　　　　　　　　[![Static Badge](https://img.shields.io/badge/Official%20link-LINE%20Plus?style=for-the-badge&logo=LINE&logoColor=white&label=LINE%20Plus&labelColor=%2306c755&color=black)](https://linepluscorp.com/) <br>
 　　　　　　　　　　　　　　　　　　　　　[![clone](https://img.shields.io/badge/Clone-LINE%20Plus?style=for-the-badge&logo=LINE&logoColor=white&label=LINE%20Plus&labelColor=%2306c755&color=black)](https://lineplus-clone.netlify.app/)
 <br>
 ## 구현 기능
